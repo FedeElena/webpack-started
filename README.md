@@ -1,16 +1,13 @@
-# webpack-configuracion-estandar
-Fin de la sección 8
+# Wedpack Started
 
+Este es el proyecto inicial para crear aplicaciones utilizando Webpack.
 
-## Nota
-Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
-
+### Notas: Recuerden reconstruir los modulos de node
 ```
 npm install
 ```
-
-Y para crear nuevamente el DIST
-
+y para construir el build, recuerden:
 ```
-npm start
+npm run build
 ```
+
